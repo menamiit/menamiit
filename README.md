@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @menamiit
-- 👀 I’m interested in Tech as most of us
+- 👀 I’m interested in learning and working on the latest Technologies
 - 🌱 I’m currently learning some high level languages
 - 📫 How to reach me (namit.12321081@lpu.in)
 
