@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I’m a Computer Science student at Lovely Professional University.
-- 🌱 Currently learning: **Web Development, Data Science, Machine Learning and more**
+- 🌱 Currently learning: **Web Development, Data Science and some Machine Learning**
 - 💻 I love building projects and collaborating with others
 - 🏆 Always eager to learn new technologies and improve my skills
 
